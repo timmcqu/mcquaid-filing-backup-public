@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02",
+  "timestamp": "2026-07-02T05:50:00Z",
   "folder": "02_Prepared_for_Filing/",
   "count": 7,
   "files": [
@@ -12,5 +12,5 @@
     "07_Plaintiffs_Sur_Reply_Doc22_Arbitration_2026-07-02_FINAL.docx"
   ],
   "vercel_dashboard": "https://vercel-dashboard-preview.vercel.app",
-  "note": "Public backup for edge sync verification. 7 FINAL docs + live dashboard reference."
+  "note": "Public backup for edge sync verification. 7 FINAL docs + live dashboard reference. Dynamic via edge fetch."
 }
