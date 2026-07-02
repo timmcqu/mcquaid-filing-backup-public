@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T05:50:00Z",
+  "timestamp": "2026-07-02T06:08:19-05:00",
   "folder": "02_Prepared_for_Filing/",
   "count": 7,
   "files": [
@@ -10,7 +10,5 @@
     "05_Cover_Letter_to_Clerk_2026-07-02_FINAL.docx",
     "06_Plaintiffs_Sur_Reply_Doc23_MTD_2026-07-02_FINAL.docx",
     "07_Plaintiffs_Sur_Reply_Doc22_Arbitration_2026-07-02_FINAL.docx"
-  ],
-  "vercel_dashboard": "https://vercel-dashboard-preview.vercel.app",
-  "note": "Public backup for edge sync verification. 7 FINAL docs + live dashboard reference. Dynamic via edge fetch."
+  ]
 }
